@@ -1,5 +1,4 @@
 # Gastric_Cancer_Survival
-CNN-LSTM based Heart Rate Estimation from PPG and Accleration
 
 ***Paper***  
 Prognostic AI Model to predict Five-year survival at One-Year after Gastric cancer Surgery based on nutrition and body morphometry.
